@@ -1,6 +1,7 @@
 # BIGTATO_Kaggle-ML-Study
-Kaggle kernel Review 
+### Kaggle kernel Review & Machine Learning Study & Study Materials
 
-Machine Learning Study
+#### file name
+- 0 : Study Materials
+- 1~ : Kaggle Kernel Review
 
-  Study materials
